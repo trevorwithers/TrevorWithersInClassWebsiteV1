@@ -1,0 +1,32 @@
+/* Trevor Withers - In Class Website */
+body {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #F1F1F2;
+    background-color: #0E0E0E;
+}
+ol {
+    list-style: upper-alpha;
+}
+ul {
+    list-style: square;
+}
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    border: solid #555658;
+}
+th, td {
+    border: solid #555658;
+}
+a:visited {
+    color: #BF2030;
+}
+a:hover {
+    color: #555658;
+    opacity: 0.5;
+}
+a:active {
+    color: #F1F1F2;
+}
